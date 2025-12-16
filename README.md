@@ -67,7 +67,6 @@ Para gerar um arquivo executável que funciona em computadores sem Python instal
 ├── 🖼️ image_1.png           <-- O logo (O nome DEVE ser esse)
 ├── 📄 requirements.txt      <-- Arquivo com a lista de bibliotecas
 ├── 📄 README.md             <-- Arquivo de documentação
-│
 └── 📁 dist/                 <-- (Esta pasta aparece só depois de gerar o .exe)
     └── 🚀 gerador_wifi.exe  <-- O seu programa pronto para enviar/usar
     
