@@ -60,3 +60,17 @@ Para gerar um arquivo executável que funciona em computadores sem Python instal
 3.  O arquivo `.exe` será gerado na pasta `dist`.
 
 ## 📂 Estrutura do Projeto
+
+📁 Pasta_do_Projeto/
+│
+├── 📄 gerador_wifi.py       <-- O código Python
+├── 🖼️ image_1.png           <-- O logo (O nome DEVE ser esse)
+├── 📄 requirements.txt      <-- Arquivo com a lista de bibliotecas
+├── 📄 README.md             <-- Arquivo de documentação
+│
+└── 📁 dist/                 <-- (Esta pasta aparece só depois de gerar o .exe)
+    └── 🚀 gerador_wifi.exe  <-- O seu programa pronto para enviar/usar
+    
+## 📝 Licença
+
+Este projeto foi desenvolvido para fins educacionais e de uso interno.
